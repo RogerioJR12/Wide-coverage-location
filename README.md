@@ -9,8 +9,7 @@
 <h2>  🎨 Prévia do projeto  </h2>
 
 <!-- Adicione uma captura de tela do projeto aqui -->
-
-!Preview do projeto
+<img src="https://github.com/RogerioJR12/Wide-coverage-location/blob/main/img/Readme.md%20PC.png?raw=true"/>
 
 <h3>  🛠️ Tecnologias utilizadas </h3>
 <p>
@@ -33,15 +32,15 @@ Durante o desenvolvimento deste projeto, estou colocando em prática conceitos c
 
 <h4>  💻 Como executar o projeto  </h4>
 
-1.Clone este repositório:
+1.  Clone este repositório:
 
 git clone https://github.com/RogerioJR12/Wide-coverage-location/tree/main
 
-2.Entre na pasta do projeto:
+2.  Entre na pasta do projeto:
 
 cd nome-do-projeto
 
-3. Abra o arquivo index.html no navegador.
+3.  Abra o arquivo index.html no navegador.
    
 <h5>  🚀 Objetivo  </h5>
 
