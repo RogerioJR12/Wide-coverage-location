@@ -35,7 +35,7 @@ Durante o desenvolvimento deste projeto, estou colocando em prática conceitos c
 
 1.Clone este repositório:
 
-git clone https://github.com/RogerioJR12/aula-pratica
+git clone https://github.com/RogerioJR12/Wide-coverage-location/tree/main
 
 2.Entre na pasta do projeto:
 
