@@ -10,7 +10,7 @@
 
 <!-- Adicione uma captura de tela do projeto aqui -->
 <img src="https://github.com/RogerioJR12/Wide-coverage-location/blob/main/img/Readme.md%20PC.png?raw=true"/>
-<a href="https://rogeriojr12.github.io/Wide-coverage-location/"> Preview Here </a>
+<a href="https://rogeriojr12.github.io/Wide-coverage-location/" target="_blank" > Preview Here </a>
 <h3>  🛠️ Tecnologias utilizadas </h3>
 <p>
 - HTML5
